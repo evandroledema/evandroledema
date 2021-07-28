@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evandroledema
 - 👀 I’m interested in programming, books (sci-fi & fantasy), movies & TV-shows, comix and bodybuilding.
-- 🌱 C/C++, Java, Python, ASM, VBA.
+- 🌱 C/C++, Java, Python, ASM, VBA & Kotlin.
 - 💞️ I’m looking to collaborate on Game Development.
 - 📫 How to reach me: evandro.ledema@gmail.com, +55 65 992348705 (Telegram & Whatsapp).
 
